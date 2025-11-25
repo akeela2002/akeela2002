@@ -2,12 +2,14 @@
 I’m Akeela Ali, an aspiring Software Developer passionate about building clean, user-friendly, and meaningful digital experiences.I enjoy frontend development, UI/UX design, and managing projects from concept to completion.
 
 ### About Me 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">              
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">  
+
 - 🌱 Currently learning React.js, Node.js, UI/UX, and Software Architecture
 - 🎯 Strong interest in Frontend Development, Project Management, and User Experience
 - 👩‍🎓 Undergraduate at Sabaragamuwa University of Sri Lanka
 - ❤ Love designing clean UIs and teaching others!
-- Social Presence
+
+### Social Presence
 <br /> <a href="https://www.linkedin.com/in/akeela-ali-108a58314">
   <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn">
 </a><br/>
