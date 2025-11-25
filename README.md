@@ -2,9 +2,7 @@
 I’m Akeela Ali, an aspiring Software Developer passionate about building clean, user-friendly, and meaningful digital experiences.I enjoy frontend development, UI/UX design, and managing projects from concept to completion.
 
 ### About Me 
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://akeelaali.vercel.app/)
-                                                
+<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">              
 - 🌱 Currently learning React.js, Node.js, UI/UX, and Software Architecture
 - 🎯 Strong interest in Frontend Development, Project Management, and User Experience
 - 👩‍🎓 Undergraduate at Sabaragamuwa University of Sri Lanka
@@ -22,10 +20,10 @@ I’m Akeela Ali, an aspiring Software Developer passionate about building clean
 src="https://img.icons8.com/color/50/000000/git.png"/><img width="50" height="50" src="https://img.icons8.com/windows/32/github.png" alt="github"/> <img height="50" width="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
 ### Projects
--🌐 AkeelaPortfolio – Personal portfolio showcasing my skills, projects, and UI/UX work
--🎓 AluminiWave – AI-powered Alumni Engagement & Management System
--🏡 Terraspace – Real estate platform with advanced search and smooth UI
--🛂 Passport Alert System – System to notify users about passport expiry alerts
+- 🌐 AkeelaPortfolio – Personal portfolio showcasing my skills, projects, and UI/UX work
+- 🎓 AluminiWave – AI-powered Alumni Engagement & Management System
+- 🏡 Terraspace – Real estate platform with advanced search and smooth UI
+- 🛂 Passport Alert System – System to notify users about passport expiry alerts
 
 ### Contact Me
 - 📧 Email: [akeelaali4648@gmail.com](mailto:akeelaali4648@gmail.com)
