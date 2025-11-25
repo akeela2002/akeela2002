@@ -8,8 +8,9 @@ I’m Akeela Ali, an aspiring Software Developer passionate about building clean
 - 👩‍🎓 Undergraduate at Sabaragamuwa University of Sri Lanka
 - ❤ Love designing clean UIs and teaching others!
 - Social Presence
-<br /> [<img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/akeela-ali-108a58314)
-<br/>
+<br /> <a href="https://www.linkedin.com/in/akeela-ali-108a58314">
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn">
+</a><br/>
 
 ### I code in
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> <img width="50" height="50" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/bootstrap.png" />
@@ -30,4 +31,4 @@ src="https://img.icons8.com/color/50/000000/git.png"/><img width="50" height="50
 - 🌐 Portfolio:[Akeela Ali](https://https://akeelaali.vercel.app/) 
 - 💼 LinkedIn:[Akeela Ali](https://www.linkedin.com/in/akeela-ali-108a58314)
 - 🐙 GitHub: [akeela2002](https://github.com/akeela2002)
-- 
+  
